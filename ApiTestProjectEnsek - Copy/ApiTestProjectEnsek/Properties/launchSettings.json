@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ApiTestProjectEnsek": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "edit_order_1": "\"actual_order_id_1\"",
+        "edit_order_2": "\"actual_order_id_2\""
+      }
+    }
+  }
+}
